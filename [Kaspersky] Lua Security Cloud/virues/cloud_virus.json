@@ -9,7 +9,7 @@
                 "pattern2"
             ],
             "riskLevel": "high",
-            "detectedDate": "2023-04-02",
+            "detectedDate": "2023-04-01",
             "remediationAdvice": "Remove suspicious files and check for rootkits.",
             "steamWorkshopLink": "https://steamcommunity.com/sharedfiles/filedetails/?id=YOUR_ADDON_ID"
         } 
