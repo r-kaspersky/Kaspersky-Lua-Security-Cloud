@@ -1,0 +1,17 @@
+{
+    "viruses": [
+        {
+            "id": "VIRUS_001",
+            "name": "MalwareName",
+            "description": "Description of the malware",
+            "signatures": [
+                "pattern1",
+                "pattern2"
+            ],
+            "riskLevel": "high",
+            "detectedDate": "2023-04-01",
+            "remediationAdvice": "Remove suspicious files and check for rootkits.",
+            "steamWorkshopLink": "https://steamcommunity.com/sharedfiles/filedetails/?id=YOUR_ADDON_ID"
+        } 
+    ]
+}
